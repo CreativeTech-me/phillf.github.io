@@ -1,0 +1,62 @@
+url: https://www.creativetech.me/
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Phill Fernandes
+  depiction:
+  profession: Technologist and Developer
+  location: Boston, MA
+  citizenship: USA
+  email: phill@creativetech.me
+  site: https://www.CreativeTech.me
+  phone: +1 (617) 657-4823
+  github: /phillf
+  stackoverflow:
+
+career:
+ - position: Public Service Assistnat / Technology Services Manager
+   company: Earl Center for Learning and Innovation @ Wheelock College
+   location: Boston, MA, USA
+   dates: October 2017 - Present
+   summary: Responsible for providing document preparation and prodcution services as well as circulating properties for the students, faculty and staff of Wheelock.
+   accomplishments:
+    - accomplishment: Designed and Implemented a Mobile Device Management (MDM) strategy to manage and track MacBooks and iPads.
+    - accomplishment: Solidify and Formalize a center-based IT managment infrastructure to with the goal of alieviating some of the load of the Institutional IT department.
+ - position: Client Support Technician
+   company: Auxilium Virtutis, Inc.
+   location: North Chelmsford, MA
+   dates: July 2015 - Present
+   summary: Responsible for providing support to small business and medical office clients via remote acces or on-site visits.
+
+technicalSkills:
+  backend:
+   - name: PHP
+     level: 60
+   - name: JS
+     level: 30
+   - name: HTML
+     level: 100
+  frontend:
+   - name: Customer Service
+     level: 100
+   - name: Technical Support
+     level: 100
+  other:
+    - name: Active Directory/DNS
+      level: 75
+    - name: Mobile Device Management
+      level: 75
+
+sideProjects:
+  - name: OpenCAD (PHP)
+    description: An OpenSource Computer Aided Dispatch, Mobile Data Terminal, and Persona Management solutions for FiveM communities.
+    link: https://github.com/StormlightTech/OpenCAD-php
+    type: github
+    langs: HTML/CSS/PHP/JS
+
+education:
+  - name: Porter and Chester Institute
+    degree: Computer and Networking Technology
+    location: Canton, MA, USA
+    dates: 2011-2012
+    link: https://www.PorterChester.com/
